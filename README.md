@@ -1,2 +1,2 @@
-Conway's Game of Life in Clojure
+Conway’s Game of Life in Clojure
 ================================
